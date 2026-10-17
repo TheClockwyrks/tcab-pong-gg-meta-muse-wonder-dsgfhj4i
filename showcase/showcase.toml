@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.json.gz"
+name = "A rally curving through the obstacles"
+
+[[media]]
+file = "rally.png"
+name = "Live play in the field"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
+
+[[media]]
+file = "match.png"
+name = "A match underway"
